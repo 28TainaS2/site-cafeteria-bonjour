@@ -1,4 +1,8 @@
-header{
-  background-color: rgb(199, 154, 71);
-  color: rgb(0, 0, 0);  
+header {
+  background-color: #E9A745;
+  color: black;
+}
+
+.cabeçalho-imagem {
+  width: 10%;
 }
